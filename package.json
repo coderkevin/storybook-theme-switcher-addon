@@ -5,7 +5,8 @@
   "description": "Theme Switcher addon can be used to switch themes of stories in Storybook",
   "keywords": [
     "storybook",
-    "addon"
+    "addon",
+    "storybook-addon"
   ],
   "main": "./dist/index.js",
   "exports": "./dist/",
